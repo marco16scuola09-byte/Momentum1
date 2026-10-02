@@ -1,0 +1,8 @@
+{
+  "name": "Momentum Daily OS V5",
+  "short_name": "Momentum",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090b12",
+  "theme_color": "#090b12"
+}
